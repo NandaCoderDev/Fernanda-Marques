@@ -1,54 +1,71 @@
 # 👋 Olá! Eu sou Fernanda Marques
 
-Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender, criar e evoluir. Atualmente focada em **desenvolvimento web** com **React**, **TypeScript** e boas práticas de versionamento com **Git/GitHub**.
+Sou uma profissional apaixonada por tecnologia, aprendizado contínuo e qualidade de software.
+Atualmente, estou em transição da área de Desenvolvimento Front-End para Quality Assurance (QA Engineer) — unindo minha base sólida em programação com a busca pela excelência em testes e entrega de software confiável.
+
+<img src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="40%" alt="Interface de jogo Steam">
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
  <!-- 🌐 FRONT-END LANGUAGES -->
-  <h3>🌐 Front-End</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> HTML5
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> CSS3
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> JavaScript
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> TypeScript
-  <img width="12" />
+ <h3>💻 Desenvolvimento Web<h3>
 
-- ⚛️ **React**
-- 🟦 **TypeScript**
-- 💻 **JavaScript**
-- 🌐 **HTML5**
-- 🎨 **CSS3**
-- 🧷 **Bootstrap**
-- 🌿 **Tailwind CSS**
-- 🧑‍💻 **Git**
-- 🐙 **GitHub**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"  alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"  alt="React" />&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />&nbsp;&nbsp;
+</p>
+<h3>🧰 Controle de Versão</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"  alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />&nbsp;&nbsp;
+</p>
 
 ---
 
-## 💡 Sobre mim
+## 🧪 Migração para QA Engineer
 
-- 🎯 Atualmente estudando **React + TypeScript**
-- 🧠 Interessada em **desenvolvimento front-end**, UX/UI e tecnologias modernas
-- 🚧 Criando projetos práticos para reforçar meus conhecimentos
-- ✍️ Escrevendo códigos que resolvem problemas reais
+Atualmente, estou aprofundando meus estudos em Quality Assurance, com foco em:<br>
+Testes manuais e exploratórios<br>
+Criação e documentação de casos de teste<br>
+Report e acompanhamento de bugs<br>
+Fundamentos de automação de testes (em breve com Cypress e Playwright)<br>
+Melhoria contínua da qualidade e experiência do usuário
+
+🎯 Meu objetivo é combinar meu olhar de desenvolvedora com práticas de QA, garantindo produtos mais estáveis, acessíveis e intuitivos.
 
 ---
 
 ## 🎓 Formação e Cursos
 
-- 🎓 **Graduação em andamento** em Análise e Desenvolvimento de Sistemas pela **Universidade Estácio de Sá**  
-- 📚 **Cursos na Udemy**:
-  - Desenvolvimento Web com HTML, CSS e JavaScript
-  - React do Zero ao Avançado com Projetos Reais
-  - Git e GitHub para Iniciantes
-  - Lógica de Programação e Algoritmos
+🎓 Graduação em andamento:
+Análise e Desenvolvimento de Sistemas – Universidade Estácio de Sá
+
+📚 Cursos (Udemy):
+
+- Desenvolvimento Web com HTML, CSS e JavaScript
+- React do Zero ao Avançado com Projetos Reais
+- Git e GitHub para Iniciantes
+- Lógica de Programação e Algoritmos
+- Fundamentos de Testes de Software para Iniciantes (2025)
 
 ---
+## 💡 Sobre mim
+
+- 🔍 Em transição para QA Engineer, com base sólida em desenvolvimento web
+- 🧠 Apaixonada por aprender e aplicar boas práticas de código e testes
+- 🚧 Criando projetos práticos para consolidar conhecimentos
+- ✍️ Escrevendo códigos e testes que resolvem problemas reais
+- 💬 Acredito que qualidade é construída em cada etapa do desenvolvimento
+
 ---
+
 
 ## **📌 Projetos em destaque**
 
@@ -71,4 +88,5 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender, c
 
 ---
 
-⭐ *Sempre aprendendo. Sempre evoluindo.*
+⭐ Sempre aprendendo. Sempre evoluindo.<br>
+💡 "A qualidade não é um ato, é um hábito." — Aristóteles
