@@ -1,7 +1,10 @@
 # 👋 Olá! Eu sou Fernanda Marques
 
-Sou uma profissional apaixonada por tecnologia, aprendizado contínuo e qualidade de software.
-Atualmente, estou em transição da área de Desenvolvimento Front-End para Quality Assurance (QA Engineer) — unindo minha base sólida em programação com a busca pela excelência em testes e entrega de software confiável.
+👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, aprendizado contínuo e qualidade de software.<br>
+Atualmente, estou em formação como Desenvolvedora Web Fullstack, com foco em React, TypeScript, .NET e C, e ampliando meus conhecimentos na área de Quality Assurance (QA) — unindo minha base em programação com práticas de testes manuais e automatizados.<br>
+Estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com soluções de qualidade e crescer profissionalmente em ambientes colaborativos e inovadores.
+🚀 Explorando o melhor dos dois mundos: desenvolvimento e testes
+
 
 <img src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="40%" alt="Interface de jogo Steam">
 
@@ -29,16 +32,17 @@ Atualmente, estou em transição da área de Desenvolvimento Front-End para Qual
 
 ---
 
-## 🧪 Migração para QA Engineer
+## 🧪 Desenvolvimento paralelo em QA e Web
+Atualmente, estou aprofundando meus estudos em Quality Assurance, enquanto continuo evoluindo como Desenvolvedora Web Fullstack. Estou construindo uma base sólida em ambas as áreas, com foco em:
+- Testes manuais e exploratórios
+- Criação e documentação de casos de teste
+- Report e acompanhamento de bugs
+- Fundamentos de automação de testes (em breve com Cypress e Playwright)
+- Melhoria contínua da qualidade e experiência do usuário
+- Desenvolvimento com React, TypeScript, .NET e C
+  <br>
+🎯 Meu objetivo é combinar meu olhar técnico como desenvolvedora com práticas de QA, contribuindo para produtos mais estáveis, acessíveis e intuitivos.
 
-Atualmente, estou aprofundando meus estudos em Quality Assurance, com foco em:<br>
-Testes manuais e exploratórios<br>
-Criação e documentação de casos de teste<br>
-Report e acompanhamento de bugs<br>
-Fundamentos de automação de testes (em breve com Cypress e Playwright)<br>
-Melhoria contínua da qualidade e experiência do usuário
-
-🎯 Meu objetivo é combinar meu olhar de desenvolvedora com práticas de QA, garantindo produtos mais estáveis, acessíveis e intuitivos.
 
 ---
 
