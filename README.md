@@ -2,7 +2,7 @@
 
 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, aprendizado contínuo e qualidade de software.<br>
 Atualmente, estou em formação como Desenvolvedora Web Fullstack, com foco em React, TypeScript, .NET e C, e ampliando meus conhecimentos na área de Quality Assurance (QA) — unindo minha base em programação com práticas de testes manuais e automatizados.<br>
-Estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com soluções de qualidade e crescer profissionalmente em ambientes colaborativos e inovadores.
+Estou em busca de oportunidades para aplicar meus conhecimentos, contribuir com soluções de qualidade e crescer profissionalmente em ambientes colaborativos e inovadores.<br>
 🚀 Explorando o melhor dos dois mundos: desenvolvimento e testes
 
 
@@ -40,7 +40,7 @@ Atualmente, estou aprofundando meus estudos em Quality Assurance, enquanto conti
 - Fundamentos de automação de testes (em breve com Cypress e Playwright)
 - Melhoria contínua da qualidade e experiência do usuário
 - Desenvolvimento com React, TypeScript, .NET e C
-  <br>
+  <br><br>
 🎯 Meu objetivo é combinar meu olhar técnico como desenvolvedora com práticas de QA, contribuindo para produtos mais estáveis, acessíveis e intuitivos.
 
 
